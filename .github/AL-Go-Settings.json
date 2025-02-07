@@ -1,7 +1,10 @@
 {
-  "type": "PTE",
-  "templateUrl": "https://github.com/businesscentralapps/tmpM7Xd8F-PTE@main",
-  "runs-on": "ubuntu-latest",
+  "doNotPublishApps": true,
   "shell": "pwsh",
-  "MicrosoftTelemetryConnectionString": ""
+  "gitHubRunner": "ubuntu-latest",
+  "UseCompilerFolder": true,
+  "runs-on": "ubuntu-latest",
+  "type": "PTE",
+  "MicrosoftTelemetryConnectionString": "",
+  "templateUrl": "https://github.com/businesscentralapps/tmpM7Xd8F-PTE@main"
 }
