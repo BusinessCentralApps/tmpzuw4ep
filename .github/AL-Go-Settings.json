@@ -6,5 +6,6 @@
   "runs-on": "ubuntu-latest",
   "type": "PTE",
   "MicrosoftTelemetryConnectionString": "",
-  "templateUrl": "https://github.com/businesscentralapps/tmpM7Xd8F-PTE@main"
+  "templateUrl": "https://github.com/businesscentralapps/tmpM7Xd8F-PTE@main",
+  "templateSha": "715590a6be95f2e2e29f3942692792d261e847c6"
 }
